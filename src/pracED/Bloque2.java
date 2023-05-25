@@ -27,6 +27,7 @@ public class Bloque2 {
 		System.out.println(resultado);
 	}
 
+	/*Al introducir el numero te imprime si es primo o no */
 	public static void esPrimo(int numero) {
 		boolean resultado = true;
 			
